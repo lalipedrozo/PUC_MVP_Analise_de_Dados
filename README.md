@@ -36,6 +36,6 @@ Você pode acessar o notebook diretamente pelos links abaixo:
 * [Abrir no Google Colab](https://colab.research.google.com/github/lalipedrozo/PUC_MVP_Analise_de_Dados/blob/main/PUC_MVP_Analise_de_Dados.ipynb)
 
 ---
-**Autor:** [Larissa de Almeida Leite Pedrozo]  
+**Autor:** Larissa de Almeida Leite Pedrozo  
 **Instituição:** PUC-Rio - Pós-graduação em Análise e Ciência de Dados
 **Contexto:** MVP de Pós-Graduação em Data Science & Analytics - PUC-Rio
